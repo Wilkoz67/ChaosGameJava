@@ -23,7 +23,7 @@ Linux / Mac:
 ./run.sh
 
 ## Screenshot
-(Add screenshot here later)
+
 
 ## Author
-Jan C
+Marek Jancevic
